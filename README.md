@@ -70,7 +70,7 @@ $ git clone https://github.com/Apeksha115908828/paripl
 
 ## License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENCE) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
 Made with ❤️ by <a href="https://github.com/Apeksha115908828" target="_blank">Apeksha Bodade</a>
